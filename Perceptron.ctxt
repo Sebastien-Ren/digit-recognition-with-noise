@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Perceptron
+comment1.params=n\ learning_rate\ error\ maximum
+comment1.target=Perceptron(int,\ double,\ double,\ int)
+comment2.params=trainingin\ trainingtar
+comment2.target=int\ training(double[][],\ double[])
+comment3.params=trainingin\ trainingtar
+comment3.target=int\ getExpected(double[][],\ double[])
+comment4.params=first\ trainingtar
+comment4.target=int\ getOutput(double[],\ double)
+numComments=5
